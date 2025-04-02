@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou o Diogo Lugano
+## 👋 Olá! Eu sou o Diogo Lugano
 
 - 💡 Sobre mim
 Sou um entusiasta da tecnologia, do desenvolvimento de software e desenvolvimento de sites, com interesse especial na criação de sistemas para sites e soluções web. Tenho experiência em C, PHP, HTML, CSS, JavaScript e MySQL.
