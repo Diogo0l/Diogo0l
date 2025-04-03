@@ -21,5 +21,3 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **desenvolvimen
 Se deseja trocar ideias, colaborar em projetos ou discutir oportunidades, entre em contato:
 - ✉️ **E-mail:** [n](mailto:seu.email@email.com)  
 - 💼 **LinkedIn:** [ainda n](https://linkedin.com/in/seu-usuario)  
-
-🚀 Sempre em busca de desafios e inovação no mundo da tecnologia!  
