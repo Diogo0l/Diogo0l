@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Diogo Lugano**
 
-💻 Desenvolvedor apaixonado por **tecnologia, desenvolvimento de software e desenvolvimento web**.
+💻 Desenvolvedor interessado por **tecnologia, desenvolvimento de software e desenvolvimento web**.
 
 Meu foco está na criação de aplicações **eficientes, responsivas e escaláveis**, explorando tanto o desenvolvimento **Frontend** quanto **Backend**.
 
