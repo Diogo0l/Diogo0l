@@ -74,4 +74,4 @@ If you'd like to collaborate, discuss a project, or simply talk about technology
 
 **Email:** dluganoxfarrapo@gmail.com
 
-**LinkedIn:** (https://www.linkedin.com/in/diogo-lugano-687710337/)
+**LinkedIn:** https://www.linkedin.com/in/diogo-lugano-687710337/
