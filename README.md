@@ -92,6 +92,6 @@ Se quiser **colaborar, conversar sobre algum projeto ou simplesmente trocar idei
 
 <div align="center">
 
-### Obrigado por visitar meu perfil! 🚀
+### Obrigado por visitar meu perfil! 
 
 </div>
