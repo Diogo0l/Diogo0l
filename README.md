@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou **Diogo Lugano**
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=Diogo_Lugano&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
 💻 Desenvolvedor interessado por **tecnologia, desenvolvimento de software e desenvolvimento web**.
 
 Meu foco está na criação de aplicações **eficientes, responsivas e escaláveis**, explorando tanto o desenvolvimento **Frontend** quanto **Backend**.
@@ -27,7 +29,7 @@ Meu foco está na criação de aplicações **eficientes, responsivas e escaláv
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
+[![React](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
 
 ### ⚙️ Backend & Banco de Dados
 
@@ -78,7 +80,7 @@ Estou continuamente aprimorando meus conhecimentos nas seguintes áreas:
 
 Se quiser **colaborar, conversar sobre algum projeto ou simplesmente trocar ideias sobre tecnologia**, entre em contato comigo.
 
-📧 **E-mail:** [dluganoxfarrapo@gmail.com](mailto:dluganoxfarrapo@gmail.com)
+📧 **Email:** dluganoxfarrapo@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/diogo-lugano-687710337/
 
