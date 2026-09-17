@@ -55,13 +55,7 @@ Desenvolvimento de sistemas voltados para **gerenciamento de produtos, administr
 
 ## 🚀 Projetos
 
-### 👗 Vitrine 248
-
-Uma plataforma web desenvolvida para uma **loja de moda feminina**, com foco na apresentação de produtos e em uma experiência de compra moderna.
-
-### 📦 PHP Product Management System
-
-Sistema de gerenciamento desenvolvido para facilitar o **cadastro, organização e administração de produtos**.
+### Desenvolvendo...
 
 ---
 
