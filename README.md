@@ -1,77 +1,97 @@
-# Hi, I'm Diogo Lugano
+# 👋 Olá, eu sou **Diogo Lugano**
 
-I'm a developer passionate about technology, software development, and web development.
+💻 Desenvolvedor apaixonado por **tecnologia, desenvolvimento de software e desenvolvimento web**.
 
-I focus on building efficient, responsive, and scalable applications, with an interest in both frontend and backend development.
+Meu foco está na criação de aplicações **eficientes, responsivas e escaláveis**, explorando tanto o desenvolvimento **Frontend** quanto **Backend**.
 
-## About Me
+---
 
-- Software and Web Developer
-- Interested in building practical and scalable applications
-- Currently studying and improving my development skills
-- Experienced with web development, databases, and server-side programming
+## 👨‍💻 Sobre mim
 
-## Technologies & Tools
+* 💻 Desenvolvedor de Software e Web
+* 🚀 Interessado em criar aplicações práticas e escaláveis
+* 📚 Atualmente estudando e aprimorando minhas habilidades em desenvolvimento
+* 🗄️ Experiência com desenvolvimento web, bancos de dados e programação do lado do servidor
 
-### Languages
+---
 
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+## 🛠️ Tecnologias & Ferramentas
 
-### Frontend
+### 💡 Linguagens
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)](https://www.php.net/)
 
-### Backend & Database
+### 🎨 Frontend
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://httpd.apache.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
 
-## Areas of Interest
+### ⚙️ Backend & Banco de Dados
 
-### Web Development
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge\&logo=apache\&logoColor=white)](https://httpd.apache.org/)
 
-Building modern websites, web applications, e-commerce platforms, and custom systems.
+---
 
-### Software Development
+## 🎯 Áreas de Interesse
 
-Creating practical software solutions with a focus on performance, organization, and maintainability.
+### 🌐 Desenvolvimento Web
 
-### Management Systems
+Criação de **sites modernos, aplicações web, plataformas de e-commerce e sistemas personalizados**, buscando sempre uma experiência responsiva e organizada.
 
-Developing systems for product management, business administration, and other custom workflows.
+### 💻 Desenvolvimento de Software
 
-## Projects
+Criação de **soluções de software práticas**, com foco em desempenho, organização, manutenção e escalabilidade.
 
-### Vitrine 248
+### 📊 Sistemas de Gestão
 
-A web platform developed for a women's fashion store, focused on presenting products and providing a modern shopping experience.
+Desenvolvimento de sistemas voltados para **gerenciamento de produtos, administração de negócios e fluxos de trabalho personalizados**.
 
-### PHP Product Management System
+---
 
-A management system designed to simplify product registration, organization, and administration.
+## 🚀 Projetos
 
-## Currently Learning
+### 👗 Vitrine 248
 
-I'm continuously improving my knowledge in:
+Uma plataforma web desenvolvida para uma **loja de moda feminina**, com foco na apresentação de produtos e em uma experiência de compra moderna.
 
-- JavaScript
-- React
-- Node.js
-- PHP
-- MySQL
-- C
-- Software architecture
-- Web application development
+### 📦 PHP Product Management System
 
-## Contact
+Sistema de gerenciamento desenvolvido para facilitar o **cadastro, organização e administração de produtos**.
 
-If you'd like to collaborate, discuss a project, or simply talk about technology, feel free to reach out.
+---
 
-**Email:** dluganoxfarrapo@gmail.com
+## 📚 Atualmente Aprendendo
 
-**LinkedIn:** https://www.linkedin.com/in/diogo-lugano-687710337/
+Estou continuamente aprimorando meus conhecimentos nas seguintes áreas:
+
+* JavaScript
+* React
+* Node.js
+* PHP
+* MySQL
+* C
+* Arquitetura de software
+* Desenvolvimento de aplicações web
+
+---
+
+## 📫 Contato
+
+Se quiser **colaborar, conversar sobre algum projeto ou simplesmente trocar ideias sobre tecnologia**, entre em contato comigo.
+
+📧 **E-mail:** [dluganoxfarrapo@gmail.com](mailto:dluganoxfarrapo@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/diogo-lugano-687710337/
+
+---
+
+<div align="center">
+
+### Obrigado por visitar meu perfil! 🚀
+
+</div>
