@@ -6,7 +6,7 @@ Meu foco está na criação de aplicações **eficientes, responsivas e escaláv
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 * 💻 Desenvolvedor de Software e Web
 * 🚀 Interessado em criar aplicações práticas e escaláveis
@@ -15,7 +15,7 @@ Meu foco está na criação de aplicações **eficientes, responsivas e escaláv
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### 💡 Linguagens
 
