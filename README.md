@@ -10,7 +10,7 @@ Meu foco está na criação de aplicações **eficientes, responsivas e escaláv
 
 ## Sobre mim
 
-* 💻 Desenvolvedor de Software e Web
+* 💻 Desenvolvedor Web
 * 🚀 Interessado em criar aplicações práticas e escaláveis
 * 📚 Atualmente estudando e aprimorando minhas habilidades em desenvolvimento
 * 🗄️ Experiência com desenvolvimento web, bancos de dados e programação do lado do servidor
