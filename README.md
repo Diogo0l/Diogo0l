@@ -46,10 +46,6 @@ Meu foco está na criação de aplicações **eficientes, responsivas e escaláv
 
 Criação de **sites modernos, aplicações web, plataformas de e-commerce e sistemas personalizados**, buscando sempre uma experiência responsiva e organizada.
 
-### 💻 Desenvolvimento de Software
-
-Criação de **soluções de software práticas**, com foco em desempenho, organização, manutenção e escalabilidade.
-
 ### 📊 Sistemas de Gestão
 
 Desenvolvimento de sistemas voltados para **gerenciamento de produtos, administração de negócios e fluxos de trabalho personalizados**.
